@@ -1,0 +1,18 @@
+body {
+  padding: 0;
+  margin: 0; }
+
+.root {
+  display: grid;
+  grid-template-rows: repeat(2, 1fr);
+  place-items: center;
+  color: #2a2a2a;
+  background-color: #fafafa; }
+  .root .title {
+    font-size: 3rem;
+    text-align: center; }
+  .root .time {
+    font-size: 5rem;
+    text-align: center; }
+
+/*# sourceMappingURL=index.css.map */
