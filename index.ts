@@ -1,5 +1,5 @@
 // 开学时间
-const goSchoolTime: number = Date.parse("2025-02-16T08:00:00");
+const goSchoolTime: number = Date.parse("2025-02-16T13:00:00");
 // 显示节点
 const displayPosition: HTMLDivElement = document.querySelector(".time");
 
