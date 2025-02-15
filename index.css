@@ -1,13 +1,13 @@
 body {
   padding: 0;
-  margin: 0; }
+  margin: 0;
+  background-color: #fafafa;
+  color: #2a2a2a; }
 
 .root {
   display: grid;
   grid-template-rows: repeat(2, 1fr);
-  place-items: center;
-  color: #2a2a2a;
-  background-color: #fafafa; }
+  place-items: center; }
   .root .title {
     font-size: 3rem;
     text-align: center; }
